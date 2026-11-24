@@ -1,0 +1,8 @@
+{
+  "name": "HoloSpace — Immersive 3D Exploration",
+  "description": "Explore Beyond the Screen. An interactive 3D universe of five distinct spatial worlds and a procedural 3D sculpture gallery built with React, Three.js, and WebGL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
